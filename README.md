@@ -92,5 +92,5 @@
 <br>
 
 ## 6. 소개 영상
-+ [소개 영상](https://youtu.be/ehe6kFCcfFM)
++ [소개 영상](https://youtu.be/FfVZurRKt90)
 

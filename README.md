@@ -48,6 +48,26 @@
 맵 끝에 존재하는 과일을 획득하면 다음 스테이지가 해금되며, 도착까지 다양한 장애물 및 몹들이 존재합니다.
 총 과일 5개를 모으면 게임이 종료됩니다.
 
+<div align="center">
+
+  <img src="https://github.com/user-attachments/assets/e5e17403-57ef-4481-b6a0-bd90fcd0f163" width="100%" height="100%"/>
+  
+  < Stage 1 >
+  <img src="https://github.com/user-attachments/assets/3f8f78b6-e161-4615-85be-0cf3f14fb9f6" width="100%" height="100%"/>
+
+  < Stage 2 >
+  <img src="https://github.com/user-attachments/assets/b9dc2ae2-1811-4d67-9212-048c24a95405" width="100%" height="100%"/>
+  
+  < Stage 3 >
+  <img src="https://github.com/user-attachments/assets/eb89e633-7955-4376-8eca-638dadebe076" width="100%" height="100%"/>
+
+  < Stage 4 >
+  <img src="https://github.com/user-attachments/assets/2a183c0b-3319-466f-ba74-0ad168df0998" width="100%" height="100%"/>
+  
+  < Stage 5 >
+  
+</div>
+
 <br>
 
 # 5. 게임 포인트
@@ -71,5 +91,5 @@
 <br>
 
 ## 6. 소개 영상
-+ [소개 영상](https://www.youtube.com/watch?v=_BroSnrOvzk)
++ [소개 영상](https://youtu.be/ehe6kFCcfFM)
 

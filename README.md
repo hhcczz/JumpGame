@@ -45,7 +45,7 @@
 # 4. 게임 설명
 
 - 총 5개의 스테이지로 구성되어있습니다. -> 사과, 바나나, 오렌지, 파인애플, 딸기
-- 맵 끝에 존재하는 과일을 획득하면 다음 스테이지가 해금되며, 도착까지 다양한 장애물 및 몹들이 존재합니다.
+- 맵 끝에 존재하는 과일을 획득하면 다음 스테이지가 해금 되며, 도착까지 다양한 장애물 및 몹들이 존재합니다.
 - 총 과일 5개를 모으면 게임이 종료됩니다.
   
 <img src="https://github.com/user-attachments/assets/cc6b83e9-8cf4-418d-86ab-47ab4b5b680d" width="100%" height="100%"/>
@@ -54,15 +54,19 @@
   <img src="https://github.com/user-attachments/assets/e5e17403-57ef-4481-b6a0-bd90fcd0f163" width="100%" height="100%"/>
   
   < Stage 1 >
+  
   <img src="https://github.com/user-attachments/assets/3f8f78b6-e161-4615-85be-0cf3f14fb9f6" width="100%" height="100%"/>
-
+  
   < Stage 2 >
+  
   <img src="https://github.com/user-attachments/assets/b9dc2ae2-1811-4d67-9212-048c24a95405" width="100%" height="100%"/>
   
   < Stage 3 >
+  
   <img src="https://github.com/user-attachments/assets/eb89e633-7955-4376-8eca-638dadebe076" width="100%" height="100%"/>
-
+  
   < Stage 4 >
+  
   <img src="https://github.com/user-attachments/assets/2a183c0b-3319-466f-ba74-0ad168df0998" width="100%" height="100%"/>
   
   < Stage 5 >
@@ -81,12 +85,12 @@
      - 초원, 습지, 사막, 유적, 설산
        
   - 자유로운 저장
-     - 맵에는 고유 세이브포인트가 2 군데 존재하지만, 광고를 보면 원하는 자리에 세이브 포인트가 생성됩니다.
+     - 맵에는 고유 세이브포인트가 두 군데 존재하지만, 광고를 보면 원하는 자리에 세이브 포인트가 생성됩니다.
      - 광고를 플레이어가 게임을 진행하면서 영향을 주지 않는 선에서 넣었습니다.
        
   - 함정
-     - 보이는 함정, 안보이는 함정, 다양한 몹들로 게임 분위기를 맞추었습니다.
-     - 특히 안보이는 함정을 통해 플레이어가 자연스럽게 광고에 손이 가게 설계했습니다.
+     - 보이는 함정, 안 보이는 함정, 다양한 몹들로 게임 분위기를 맞추었습니다.
+     - 특히 안 보이는 함정을 통해 플레이어가 자연스럽게 광고에 손이 가게 설계했습니다.
        
     
 <br>

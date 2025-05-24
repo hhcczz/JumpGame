@@ -4,18 +4,32 @@
 <br>
 
 # 1. 소개
-<div align="center">
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/03329ac3-e817-4511-abed-56c021b4a784" width="350px"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/460d680c-6b66-4d04-a248-cd3210d8e568" width="350px"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/e9e88da0-2866-4ea3-af74-d54de46ff4c4" width="350px"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/692caa8e-17f8-41e4-8577-924703c8c64e" width="350px"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/d9c9938d-c92e-4dad-8147-24b93c3405f4" width="350px"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/c6a975a5-54ef-497f-abc1-2429817df373" width="350px"/>
+    </td>
+  </tr>
+</table>
 
-  <img src="https://github.com/user-attachments/assets/03329ac3-e817-4511-abed-56c021b4a784" width="33%" height="33%"/>
-  <img src="https://github.com/user-attachments/assets/460d680c-6b66-4d04-a248-cd3210d8e568" width="33%" height="33%"/>
-  <img src="https://github.com/user-attachments/assets/e9e88da0-2866-4ea3-af74-d54de46ff4c4" width="33%" height="33%"/>
- 
-  <img src="https://github.com/user-attachments/assets/692caa8e-17f8-41e4-8577-924703c8c64e" width="33%" height="33%"/>
-  <img src="https://github.com/user-attachments/assets/d9c9938d-c92e-4dad-8147-24b93c3405f4" width="33%" height="33%"/>
-  <img src="https://github.com/user-attachments/assets/c6a975a5-54ef-497f-abc1-2429817df373" width="33%" height="33%"/>
-
-  < 게임 플레이 사진 >
-</div>
+<p align="center"><strong>게임 플레이 사진</strong></p>
 
 + Unity 2D Jump 게임입니다.
 

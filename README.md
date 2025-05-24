@@ -3,7 +3,7 @@
 
 <br>
 
-# 1. 소개
+# 📘 소개
 <table align="center">
   <tr>
     <td align="center">
@@ -41,14 +41,14 @@
 
 <br>
 
-# 2. 개발 환경
+# 🛠️ 개발 환경
 + Unity 2021.3.21f1 LTS
 + C#
 + Android
 
   <br>
 
-# 3. 사용 기술
+# 🧪 사용 기술
 | 기술 | 설명 |
 |:---:|:---|
 | 디자인 패턴 | ● **싱글톤** + **Static** 2가지를 사용하여 Manager 관리 |
@@ -56,15 +56,16 @@
 
 <br>
 
-# 4. 게임 설명
+# 📖 게임 설명
+
+<img src="https://github.com/user-attachments/assets/cc6b83e9-8cf4-418d-86ab-47ab4b5b680d" width="100%"/>
 
 - 총 5개의 스테이지로 구성되어있습니다. -> 사과, 바나나, 오렌지, 파인애플, 딸기
 - 맵 끝에 존재하는 과일을 획득하면 다음 스테이지가 해금 되며, 도착까지 다양한 장애물 및 몹들이 존재합니다.
 - 총 과일 5개를 모으면 게임이 종료됩니다.
-  
-<img src="https://github.com/user-attachments/assets/cc6b83e9-8cf4-418d-86ab-47ab4b5b680d" width="100%" height="100%"/>
-<div align="center">
 
+# 🗺️ 전체 맵
+<div align="center">
   <img src="https://github.com/user-attachments/assets/e5e17403-57ef-4481-b6a0-bd90fcd0f163" width="100%" height="100%"/>
   
   < Stage 1 >
@@ -89,7 +90,7 @@
 
 <br>
 
-# 5. 게임 포인트
+# 🚀 게임 포인트
   - 점프 키 제거
      - 점프 키를 제거하고 이동할 때는 무조건 점프가 되며 이동됩니다.
      - 점프가 자동이라는 제약조건을 넣어서 게임 난이도를 조절하였습니다.
@@ -109,6 +110,6 @@
     
 <br>
 
-## 6. 소개 영상
+# ▶️ 소개 영상
 + [소개 영상](https://youtu.be/FfVZurRKt90)
 
